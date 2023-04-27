@@ -1,0 +1,9 @@
+name: BlockShear
+version: @version@
+main: ru.erius.blockshear.BlockShear
+api-version: 1.17
+authors: [ erius ]
+depend: [EriusLib]
+description: you can shear blocks (amazing)
+commands:
+

@@ -1,0 +1,17 @@
+name: WalrusGaming
+version: @version@
+main: ru.erius.walrusgaming.WalrusGaming
+api-version: 1.17
+authors: [ erius ]
+description: plugin for walrus
+commands:
+  todo:
+    description: prints the text from config
+  walrusreset:
+    description: resets config
+  book:
+    description: gives a book with instructions written in config file
+  heal:
+    description: heal walrus
+  feed:
+    description: feed walrus

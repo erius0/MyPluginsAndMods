@@ -1,0 +1,9 @@
+name: LifeAsAxolotl
+version: @version@
+main: ru.erius.lifeasaxolotl.LifeAsAxolotl
+api-version: 1.17
+authors: [ erius ]
+description: with this plugin you can become an axolotl! (also you have some special axolotl abilities)
+commands:
+  axolotl:
+    description: transforms a player into axolotl

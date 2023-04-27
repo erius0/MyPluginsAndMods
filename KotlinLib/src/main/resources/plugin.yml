@@ -1,0 +1,6 @@
+name: $name
+version: $version
+main: $main
+api-version: 1.18
+authors: [ erius ]
+description: "Shared Kotlin library for plugins using Kotlin language"

@@ -1,0 +1,9 @@
+name: LifeAsTNT
+version: @version@
+main: ru.erius.lifeastnt.LifeAsTNT
+api-version: 1.17
+authors: [ erius ]
+description: you tnt
+commands:
+  transform:
+    description: transforms or undoes the transformation of a player into tnt

@@ -1,0 +1,8 @@
+name: MilkBlock
+version: '${version}'
+main: ru.erius.milkblock.MilkBlock
+api-version: 1.17
+depend: [ EriusLib ]
+authors: [ erius ]
+description: allows player to get milk from blocks and drink it
+commands:

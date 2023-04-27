@@ -1,0 +1,3 @@
+# Configuration file for OreChest plugin
+
+do_player_placed_ores_have_loot: false

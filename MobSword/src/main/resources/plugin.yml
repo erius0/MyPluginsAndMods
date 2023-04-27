@@ -1,0 +1,13 @@
+name: MobSword
+version: @version@
+main: ru.erius.mobsword.MobSword
+api-version: 1.17
+authors: [ erius ]
+description: adds new swords with special abilities that are made from the mobs flesh
+commands:
+  give:
+    description: gives some item with id to a spedcified player
+  pack:
+    desctiption: get resource pack for this plugin
+  hearts:
+    description: resets players healths to base value (20)

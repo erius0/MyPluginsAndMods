@@ -1,0 +1,1 @@
+D:\stuff\mc_stuff\mc_plugins\StuffTres\build\classes\kotlin\main\ru\erius\stufftres\StuffKt.class;D:\stuff\mc_stuff\mc_plugins\StuffTres\build\classes\kotlin\main\ru\erius\stufftres\StuffTres$Companion.class;D:\stuff\mc_stuff\mc_plugins\StuffTres\build\classes\kotlin\main\ru\erius\stufftres\StuffTres.class

@@ -1,0 +1,17 @@
+name: SharedHealth
+version: @version@
+main: ru.erius.sharedhealth.SharedHealth
+api-version: 1.17
+authors: [ erius ]
+depend: [ EriusLib ]
+description: "allows for players to share their health"
+website: https://vk.com/public206307891
+commands:
+  link:
+    description: "links two players health"
+    permission-message: "You do not have permission to use this command"
+    usage: "Wrong usage of command! Usage: /<command> [player] [player]"
+  unlink:
+    description: "unlinks every players health"
+    permission-message: "You do not have permission to use this command"
+    usage: "Wrong usage of command! Usage: /<command>"

@@ -1,0 +1,9 @@
+name: OPMobs
+version: 1.0
+main: ru.erius.opmobs.OPMobs
+api-version: 1.16
+authors: [ erius ]
+description: makes mobs op (grants them immortality or immense strength)
+commands:
+  mop:
+    description: requires 1 argument - which function to toggle on or off. "oneshot" will make mobs damage extremely high, "immortality" will nullify all damage dealt to mobs

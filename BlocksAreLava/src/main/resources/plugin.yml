@@ -1,0 +1,13 @@
+name: BlocksAreLava
+version: @version@
+main: ru.erius.blocksarelava.BlocksAreLava
+api-version: 1.17
+authors: [ erius ]
+description: use the configuration file to choose which blocks the player can't step on
+commands:
+  blocks:
+    description: toggles the functionality of this plugin on or off
+  giveboots:
+    description: gives special boots to a player
+  resetconfig:
+    description: resets the config

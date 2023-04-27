@@ -1,0 +1,7 @@
+name: OreChest
+version: @version@
+main: ru.erius.orechest.OreChest
+api-version: 1.17
+depend: [ EriusLib ]
+authors: [ erius ]
+description: turns ore into chests

@@ -1,0 +1,6 @@
+# Configuration file for Life As Axolotl plugin
+# Possible axolotl variants: WILD, BLUE, CYAN, GOLD, LUCY
+
+axolotl:
+  variant: LUCY
+  is-baby: false

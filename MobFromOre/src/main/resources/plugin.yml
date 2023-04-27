@@ -1,0 +1,9 @@
+name: MobFromOre
+version: 1.0
+main: ru.erius.mobfromore.MobFromOre
+api-version: 1.16
+authors: [ erius ]
+description: adds a chance for a random mob to spawn upon breaking any ore
+commands:
+  mobchance:
+    description: changes the rate of mobs spawning from ores (from 0% to 100%)

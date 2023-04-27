@@ -1,0 +1,11 @@
+name: ArmorBlocks
+version: 1.0
+main: ru.erius.armorblocks.ArmorBlocks
+api-version: 1.16
+authors: [ erius ]
+description: allows the player to wear any item as helmet, such helmers will apply potion effects from ArmorBlocks.cfg file
+commands:
+  abreset:
+    description: resets the config file to default settings
+  abreload:
+    description: applies changes made to the config

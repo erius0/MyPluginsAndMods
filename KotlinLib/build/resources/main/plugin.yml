@@ -1,0 +1,6 @@
+name: KotlinLib
+version: 1.6.10
+main: ru.erius.kotlinlib.KotlinLib
+api-version: 1.18
+authors: [ erius ]
+description: "Shared Kotlin library for plugins using Kotlin language"

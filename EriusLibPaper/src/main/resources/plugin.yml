@@ -1,0 +1,6 @@
+name: EriusLibPaper
+version: @version@
+main: ru.erius.eriuslibpaper.EriusLibPaper
+api-version: 1.17
+authors: [ erius ]
+description: library plugin for custom items, recipes, quests and more

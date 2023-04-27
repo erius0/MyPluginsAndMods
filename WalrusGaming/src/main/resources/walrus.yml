@@ -1,0 +1,102 @@
+# Configuration file for WalrusGaming plugin
+# (ссылка на вики, там написаны все компоненты json текста - https://minecraft.fandom.com/wiki/Raw_JSON_text_format)
+#
+# For book title, lore and author sections use MOTD color codes:
+# &1 - Dark blue
+# &2 - Dark green
+# &3 - Dark aqua
+# &4 - Dark red
+# &5 - Dark purple
+# &6 - Gold
+# &7 - Gray
+# &8 - Dark gray
+# &9 - Blue
+# &0 - Black
+# &a - Green
+# &b - Aqua
+# &c - Red
+# &d - Light purple
+# &e - Yellow
+# &f - White
+# &k - Obfuscated (хуита которая меняется каждую секунду)
+#
+# Other special formatting:
+# &l - Bold
+# &m - Strikethrough (перечекрнутый)
+# &n - Underline
+# &o - Italic
+# &r - Reset
+
+book:
+  title: '&l&2книга'
+  lore: '&l&3тест'
+  author: 'erius'
+  pages:
+    page1:
+      t1:
+        text: 'всем привет нажми '
+        color: 'green'
+        bold: true
+      t2:
+        text: 'сюда'
+        color: 'red'
+        bold: true
+        underlined: true
+        click_event:
+          action: 'OPEN_URL'
+          value: 'https://sun9-67.userapi.com/impg/ylqg7I-ay-JZcyPsT70oiGyxMx4kP4rXQYAkeg/hZZK5OVugss.jpg?size=360x202&quality=96&sign=46ac90781b2268a3c7ab63f6e8592ab5&type=album'
+      t3:
+        text: ' тут ссылка. '
+        color: 'green'
+        bold: true
+    page2:
+      t1:
+        text: 'нажми '
+        color: 'green'
+        bold: true
+      t2:
+        text: 'сюда'
+        color: 'yellow'
+        bold: true
+        underlined: true
+        click_event:
+          action: 'RUN_COMMAND'
+          value: '/playsound minecraft:entity.ender_dragon.growl player @s'
+      t3:
+        text: ' тут команда'
+        color: 'green'
+        bold: true
+
+message:
+  t1:
+    text: 'всем привет нажми '
+    color: 'green'
+    bold: true
+  t2:
+    text: 'сюда'
+    color: 'red'
+    bold: true
+    underlined: true
+    click_event:
+      action: 'OPEN_URL'
+      value: 'https://sun9-67.userapi.com/impg/ylqg7I-ay-JZcyPsT70oiGyxMx4kP4rXQYAkeg/hZZK5OVugss.jpg?size=360x202&quality=96&sign=46ac90781b2268a3c7ab63f6e8592ab5&type=album'
+  t3:
+    text: ' тут ссылка. '
+    color: 'green'
+    bold: true
+  t4:
+    text: 'нажми '
+    color: 'green'
+    bold: true
+  t5:
+    text: 'сюда'
+    color: 'yellow'
+    bold: true
+    underlined: true
+    click_event:
+      action: 'RUN_COMMAND'
+      value: '/playsound minecraft:entity.ender_dragon.growl player @s'
+  t6:
+    text: ' тут команда'
+    color: 'green'
+    bold : true

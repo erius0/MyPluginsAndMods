@@ -1,0 +1,14 @@
+name: $name
+version: $version
+main: $main
+api-version: 1.18
+depend: [ KotlinLib ]
+authors: [ erius ]
+description: "Test Kotlin plugin"
+website: https://vk.com/public206307891
+commands:
+  givecustom:
+    description: "Gives player an item declared in eriusLibKt registry"
+    aliases: [ givec, gc ]
+    permission-message: "You do not have permission to use this command"
+    usage: "Usage: /<command> [player] [name] [amount]"

@@ -1,0 +1,6 @@
+name: Wands
+version: 1.0
+main: ru.erius.wands.Wands
+api-version: 1.16
+authors: [ erius ]
+description: adds some cool magic wands (retextured hoes with some functionality)

@@ -1,0 +1,50 @@
+# Config for MobSword plugin
+# Color codes:
+# &1 - Dark blue
+# &2 - Dark green
+# &3 - Dark aqua
+# &4 - Dark red
+# &5 - Dark purple
+# &6 - Gold
+# &7 - Gray
+# &8 - Dark gray
+# &9 - Blue
+# &0 - Black
+# &a - Green
+# &b - Aqua
+# &c - Red
+# &d - Light purple
+# &e - Yellow
+# &f - White
+# &k - Obfuscated (хуита которая меняется каждую секунду)
+#
+# Other special formatting:
+# &l - Bold
+# &m - Strikethrough (перечекрнутый)
+# &n - Underline
+# &o - Italic
+# &r - Reset
+
+axolotl_soul: "Душа аксолотля"
+blaze_soul: "Душа ифрита"
+chicken_soul: "Душа курицы"
+cow_soul: "Душа коровы"
+creeper_soul: "Душа крипера"
+ender_dragon_soul: "Душа Эндер Дракона"
+enderman_soul: "Душа эндермена"
+pig_soul: "Душа свиньи"
+sheep_soul: "Душа овцы"
+skeleton_soul: "Душа скелета"
+zombie_soul: "Душа зомби"
+axolotl_sword: "Меч аксолотля"
+blaze_sword: "Меч ифрита"
+chicken_sword: "Меч курицы"
+cow_sword: "Меч коровы"
+creeper_sword: "Меч крипер"
+ender_dragon_sword: "Меч Эндер Дракона"
+enderman_sword: "Меч эндермена"
+pig_sword: "Меч свиньи"
+sheep_sword: "Меч овцы"
+skeleton_sword: "Меч скелета"
+zombie_sword: "Меч зомби"
+walrus_milk: "Молоко для Валруса"

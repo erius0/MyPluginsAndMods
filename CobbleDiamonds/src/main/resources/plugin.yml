@@ -1,0 +1,12 @@
+name: CobbleDiamonds
+version: @version@
+main: ru.erius.cobblediamonds.CobbleDiamonds
+api-version: 1.17
+authors: [ erius ]
+depend: [ EriusLib, Citizens ]
+description: new recipe for diamonds which is unlocked by completing a quest
+commands:
+  spawnnpc:
+    description: spawns NPC
+  destroynpcs:
+    description: destroys all NPCs
